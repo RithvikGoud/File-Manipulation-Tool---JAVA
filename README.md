@@ -1,5 +1,4 @@
-# Project I - JAVA  
-## Project Title: File Manipulation Tool  
+# Project Title: JAVA File Manipulation Tool  
 
 ### Description  
 This is a command-line tool developed in Java to perform basic file manipulation tasks. The tool includes the following features:  
